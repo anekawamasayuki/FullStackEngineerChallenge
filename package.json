@@ -1,0 +1,29 @@
+{
+  "name": "fullstackengineerchallenge",
+  "version": "1.0.0",
+  "description": "Masayuki Anekawa's full stack engineer challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anekawamasayuki/FullStackEngineerChallenge.git"
+  },
+  "author": "Masayuki Anekawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anekawamasayuki/FullStackEngineerChallenge/issues"
+  },
+  "homepage": "https://github.com/anekawamasayuki/FullStackEngineerChallenge#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "webpack": "^5.24.4",
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
