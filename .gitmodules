@@ -1,3 +1,6 @@
 [submodule "feedback-webapp"]
 	path = feedback-webapp
 	url = git@github.com:anekawamasayuki/feedback-webapp.git
+[submodule "employee-feedback-webapp"]
+	path = employee-feedback-webapp
+	url = git@github.com:anekawamasayuki/employee-feedback-webapp.git
